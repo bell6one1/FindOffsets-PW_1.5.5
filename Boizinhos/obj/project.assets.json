@@ -44,11 +44,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anton\\Downloads\\boizinhos\\ConsoleApp2\\Boizinhos.csproj",
+      "projectUniqueName": "C:\\Users\\anton\\Downloads\\boizinhos\\Boizinhos\\Boizinhos.csproj",
       "projectName": "Boizinhos",
-      "projectPath": "C:\\Users\\anton\\Downloads\\boizinhos\\ConsoleApp2\\Boizinhos.csproj",
+      "projectPath": "C:\\Users\\anton\\Downloads\\boizinhos\\Boizinhos\\Boizinhos.csproj",
       "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anton\\Downloads\\boizinhos\\ConsoleApp2\\obj\\",
+      "outputPath": "C:\\Users\\anton\\Downloads\\boizinhos\\Boizinhos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

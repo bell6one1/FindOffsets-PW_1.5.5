@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4HKcLwme49x2J1Yt6ikdql1mhXXxn9ptZ6XUkzV4BmjJ7hTVD43N6REeo+nhnXyuQFXb96tSKOumRq9SaN5p1A==",
+  "dgSpecHash": "bfzcZ12z9rnvDJJ1BDSYFe/QKu28QZOb1+FV76qBCMjAXRxJLr+9pihuBurR8NjY5J38hl/rnxSdfzSR/XKUmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anton\\Downloads\\boizinhos\\ConsoleApp2\\Boizinhos.csproj",
+  "projectFilePath": "C:\\Users\\anton\\Downloads\\boizinhos\\Boizinhos\\Boizinhos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anton\\.nuget\\packages\\inputsimulator\\1.0.4\\inputsimulator.1.0.4.nupkg.sha512"
   ],
